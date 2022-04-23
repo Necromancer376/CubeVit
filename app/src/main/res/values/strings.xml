@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CubeVit</string>
+
+    <string-array name="puzzle_types">
+        <item>3x3</item>
+        <item>2x2</item>
+        <item>4x4</item>
+        <item>Megaminx</item>
+        <item>Pyraminx</item>
+        <item>5x5</item>
+        <item>Mirror Cube</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720011498726",
+    "project_id": "cubevit-46758",
+    "storage_bucket": "cubevit-46758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720011498726:android:25aceb36db5284b93a1727",
+        "android_client_info": {
+          "package_name": "com.example.cubevit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720011498726-md555il9ibqk0rf340bkvlscd5cm4nsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzRfktECciWMhZS_AG00uOOGUZ0PXGUTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720011498726-md555il9ibqk0rf340bkvlscd5cm4nsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
